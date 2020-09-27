@@ -1,5 +1,5 @@
 # Shellhacksfall20
-Shellhack Fall 2020 challenge
+Shellhack Fall 2020 challenge.
 We decided to work towards the Best Hack for Social Good by JPMorgan Chase challenge.
 Welcome to our Shellhacks project.
 This project is aimed to improve mental health during covid by helping you build memory skills.
